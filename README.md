@@ -1,5 +1,5 @@
 Advanced Wireless Engineering ES96T Coursework
 
-Matlab files generate a dataset for the use-case described in task 3 of the of the assignment (check ES96T_Assignment pdf)
+Matlab files generate a dataset for the use-case described in assignment task 3 (check ES96T_Assignment_2025-26 pdf).
 
-Python File trains a polynomial regression on the dataset and tests the model, producing close to 0.98 R value.
+Python File trains a polynomial regression on the dataset and tests the model, producing 0.99 R value.
